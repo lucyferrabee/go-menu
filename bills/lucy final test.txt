@@ -1,0 +1,5 @@
+Bill breakdown: 
+Pizza:                    ...£10 
+18:                       ...£18 
+tip:                      ...£10
+total:                    ...£38.00
